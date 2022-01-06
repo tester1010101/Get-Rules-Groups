@@ -1,4 +1,4 @@
-# Get-Rules & Groups v1.1 :recycle: :beginner:
+# Get-Rules & Groups v1.2 :recycle: :beginner:
 * :diamond_shape_with_a_dot_inside: Dumps ALL ("Allow") **Firewall Rules** from Windows Defender Firewall with Advanced Security. 
 * :diamond_shape_with_a_dot_inside: Reconverts them into applicables one through "netsh advfirewall firewall add rule".
 * :diamond_shape_with_a_dot_inside: Will get dumped & converted in: %USERPROFILE%\Rules\FWCommands.txt
