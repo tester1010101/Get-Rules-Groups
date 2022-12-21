@@ -3,8 +3,8 @@
 * :diamond_shape_with_a_dot_inside: Reconverts them into applicables one through "netsh advfirewall firewall add rule".
 * :diamond_shape_with_a_dot_inside: Will get dumped & converted in: %USERPROFILE%\Rules\FWCommands.txt
 * :diamond_shape_with_a_dot_inside: Prompts user to open the dump/rules location, for analysis/learning/re-apply/backups.
-* :open_file_folder: To-do: Add to extraction/conversion: Deny rules :no_entry:
-* :warning: Packages in rules won't be applied/converted/extracted to rules (to-do)
+* ## :open_file_folder: To-do: Add to extraction/conversion: Deny rules :no_entry: ##
+* ## :warning: Packages in rules won't be applied/converted/extracted to rules (to-do) ##
 
 ![image](https://user-images.githubusercontent.com/91343617/147798910-7dc5afd3-d63a-435e-8d82-8338cd4a4e72.png)
 
